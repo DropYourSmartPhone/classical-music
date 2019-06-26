@@ -1,1 +1,1 @@
-The files are APE.
+The files are CUE.
